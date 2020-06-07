@@ -1,7 +1,27 @@
-li {
-  padding: 5px;
+
+.container {
+  margin: 15px;
+}
+
+.card {
+  margin: 10px;
+}
+
+h1, h2 {
   margin: 5px;
-  background: #faebd7;
+}
+
+li {
+  padding: 15px;
+  margin: 15px;
+  background: #e2a6fa56;
+  border-radius: 8px;
+  font-size: 26px;
+  font-weight: bolder;
+}
+
+button {
+  font-size: 14px !important;
 }
 
 .label {
