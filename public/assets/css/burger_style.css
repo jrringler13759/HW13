@@ -1,10 +1,14 @@
 
+
+
 .container {
   margin: 15px;
+  text-align: center;
 }
 
 .card {
   margin: 10px;
+  border-color: white !important;
 }
 
 h1, h2 {
@@ -14,7 +18,7 @@ h1, h2 {
 li {
   padding: 15px;
   margin: 15px;
-  background: #e2a6fa56;
+  background: #cf990556;
   border-radius: 8px;
   font-size: 26px;
   font-weight: bolder;
